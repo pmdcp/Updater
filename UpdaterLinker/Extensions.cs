@@ -17,7 +17,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PMU.Updater.Linker
+namespace PMDCP.Updater.Linker
 {
     public static class Extensions
     {

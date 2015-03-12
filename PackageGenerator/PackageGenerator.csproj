@@ -8,7 +8,7 @@
     <ProjectGuid>{31D7D36D-5557-4F5B-9A2D-B499ADB28320}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PMU.Updater.PackageGenerator</RootNamespace>
+    <RootNamespace>PMDCP.Updater.PackageGenerator</RootNamespace>
     <AssemblyName>PackageGenerator</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

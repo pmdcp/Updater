@@ -22,7 +22,7 @@ using System.Xml;
 using System.Reflection;
 using System.Windows.Forms;
 
-namespace PMU.Updater.PackageGenerator
+namespace PMDCP.Updater.PackageGenerator
 {
     class Program
     {

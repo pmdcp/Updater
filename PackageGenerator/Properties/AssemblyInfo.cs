@@ -23,9 +23,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("PackageGenerator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Pokemon Mystery Dungeon Community Project")]
 [assembly: AssemblyProduct("PackageGenerator")]
-[assembly: AssemblyCopyright("Copyright ©  2010")]
+[assembly: AssemblyCopyright("Copyright © Pokemon Mystery Dungeon Community Project 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

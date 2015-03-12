@@ -17,7 +17,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PMU.Updater
+namespace PMDCP.Updater
 {
     public class FileDownloader
     {

@@ -16,9 +16,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using PMU.Updater.Linker;
+using PMDCP.Updater.Linker;
 
-namespace PMU.Updater
+namespace PMDCP.Updater
 {
     public class InstalledPackageInfo : MarshalByRefObject, IInstalledPackageInfo
     {

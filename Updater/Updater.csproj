@@ -8,7 +8,7 @@
     <ProjectGuid>{A81FCDE3-A996-4BCA-A833-4727A37B4268}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PMU.Updater</RootNamespace>
+    <RootNamespace>PMDCP.Updater</RootNamespace>
     <AssemblyName>Updater</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

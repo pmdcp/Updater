@@ -17,11 +17,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-using PMU.Updater.Linker;
+using PMDCP.Updater.Linker;
 using System.IO;
 using System.Xml;
 
-namespace PMU.Updater
+namespace PMDCP.Updater
 {
     public class PackageFileList : MarshalByRefObject, IPackageFileList
     {

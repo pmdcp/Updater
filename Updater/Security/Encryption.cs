@@ -18,7 +18,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Security.Cryptography;
 
-namespace PMU.Updater.Security
+namespace PMDCP.Updater.Security
 {
     public class Encryption
     {

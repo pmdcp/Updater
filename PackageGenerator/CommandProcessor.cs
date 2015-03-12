@@ -17,7 +17,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PMU.Updater.PackageGenerator
+namespace PMDCP.Updater.PackageGenerator
 {
     public class CommandProcessor
     {

@@ -8,7 +8,7 @@
     <ProjectGuid>{02277808-CD1A-4E3B-85C0-3D8538D196B5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PMU.Updater.Linker</RootNamespace>
+    <RootNamespace>PMDCP.Updater.Linker</RootNamespace>
     <AssemblyName>Updater.Linker</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

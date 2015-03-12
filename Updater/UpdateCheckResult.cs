@@ -13,13 +13,13 @@
 // You should have received a copy of the GNU General Public License
 // along with Mystery Dungeon eXtended.  If not, see <http://www.gnu.org/licenses/>.
 
-namespace PMU.Updater
+namespace PMDCP.Updater
 {
     using System;
     using System.Collections.Generic;
     using System.Text;
 
-    using PMU.Updater.Linker;
+    using PMDCP.Updater.Linker;
 
     public class UpdateCheckResult : MarshalByRefObject, IUpdateCheckResult
     {

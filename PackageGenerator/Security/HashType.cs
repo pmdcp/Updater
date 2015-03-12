@@ -18,7 +18,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.ComponentModel;
 
-namespace PMU.Updater.PackageGenerator.Security
+namespace PMDCP.Updater.PackageGenerator.Security
 {
     public enum HashType
     {
